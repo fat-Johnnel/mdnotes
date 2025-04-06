@@ -3,6 +3,8 @@
 ```rust
 if number < 5 {
 	statement;
+} else if condition {
+	statement;
 } else {
 	statement;
 }
@@ -72,6 +74,24 @@ loop {
 ```rust
 for x in 0..100{//也可以使用其他容器，0..100指的是[0,100)
 	println!("{}",x);
+}
+```
+一般地，使用其他容器时，选择引用，因为会发生所有权转移
+
+| 使用方法                          | 等价使用方式                                            | 所有权   |
+| ----------------------------- | ------------------------------------------------- | ----- |
+| `for item in collection`      | `for item in IntoIterator::into_iter(collection)` | 转移所有权 |
+| `for item in &collection`     | `for item in collection.iter()`                   | 不可变借用 |
+| `for item in &mut collection` | `for item in collection.iter_mut()`               | 可变借用  |
+|                               |                                                   |       |
+如果想在循环中**获取元素的索引**：
+```rust
+fn main() {
+    let a = [4, 3, 2, 1];
+    // `.iter()` 方法把 `a` 数组变成一个迭代器
+    for (i, v) in a.iter().enumerate() {
+        println!("第{}个元素是{}", i + 1, v);
+    }
 }
 ```
 ### while循环
