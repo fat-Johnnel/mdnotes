@@ -26,6 +26,18 @@
    let heart = PokerSuit::Hearts;
    ```
 
+5. **特殊的枚举**:
+```rust
+enum Option<T> {
+    None,
+    Some(T),
+}
+enum Result<T, E> {
+    Ok(T),
+    Err(E),
+}
+
+```
 ---
 
 ## 二、枚举与数据关联

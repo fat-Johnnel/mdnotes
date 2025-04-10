@@ -22,5 +22,12 @@
 [[Rust全模式列表]]
 
 [[Rust中的方法method]]
+
+### Rust泛型和特征
+[[Rust泛型]]
+[[Rust中的特征]]->[[Rust中的特征与方法]]
 ### Rust特性语法
 [[Rust中的所有权与借用]]
+
+## Rust库
+[[Rust算法相关的库]]
