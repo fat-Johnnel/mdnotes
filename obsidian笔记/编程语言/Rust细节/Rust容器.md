@@ -159,6 +159,15 @@ let mut vec2 = vec![3, 4];
 vec1.append(&mut vec2); // vec1: [1, 2, 3, 4], vec2 为空
 ```
 
+#### 4.筛选计数
+```rust
+fn count_iterator(map: &HashMap<String, Progress>, value: Progress) -> usize {
+    map.values()
+        .filter(|&v| *v == value) // 筛选符合条件的元素
+        .count()                 // 统计数量
+}
+```
+
 ---
 
 ### 九、内存与所有权
