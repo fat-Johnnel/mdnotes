@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "cfe7be78a8be1ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "21fb3399d4a87d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b068449f0a01026",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "a63b17af0235944b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原子层知识点/离散型随机变量.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "离散型随机变量"
+            }
+          },
+          {
+            "id": "5cbe462f8287a090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法👩‍💼.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据结构与算法👩‍💼"
+            }
+          },
+          {
+            "id": "8a562994feac907a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原子层知识点/欧拉图与哈密顿图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欧拉图与哈密顿图"
+            }
+          },
+          {
+            "id": "1510a76b8bc9b1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原子层知识点/欧拉图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欧拉图"
+            }
+          },
+          {
+            "id": "c0b4216ae468dd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原子层知识点/函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8d2d006e66b7249",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dbf69f45d11ba67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94824e39c887d992",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3587f54a30286590",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "367bc444ccaeba65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "19651fb9f46d76f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "32664efca6edcbfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81cbc0901d6b34d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "原子层知识点/支配集、覆盖集、独立集、匹配与着色.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "支配集、覆盖集、独立集、匹配与着色 的反向链接列表"
+            }
+          },
+          {
+            "id": "687880c4ec4babef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "b8b3728b24b800ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3999553586b1496e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "原子层知识点/支配集、覆盖集、独立集、匹配与着色.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "支配集、覆盖集、独立集、匹配与着色 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "random-note:开始漫游笔记": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "5cbe462f8287a090",
+  "lastOpenFiles": [
+    "离散数学.md",
+    "概率论与数理统计.md",
+    "原子层知识点/随机变量的数学期望.md",
+    "数据结构与算法👩‍💼.md",
+    "index.md",
+    "原子层知识点/离散型随机变量.md",
+    "原子层知识点/欧拉图与哈密顿图.md",
+    "原子层知识点/哈密顿图.md",
+    "原子层知识点/欧拉图.md",
+    "未命名",
+    "原子层知识点/最短路径问题.md",
+    "原子层知识点/树（离散数学）.md",
+    "原子层知识点/支配集、覆盖集、独立集、匹配与着色.md",
+    "原子层知识点/图的基本概念.md",
+    "原子层知识点/函数.md",
+    "原子层知识点/集合.md",
+    "原子层知识点/二元关系.md",
+    "原子层知识点/多维R.V.的函数分布.md",
+    "原子层知识点/多维随机变量.md",
+    "原子层知识点/平面图.md",
+    "原子层知识点/回溯算法🐸.md",
+    "原子层知识点/广义表.md",
+    "原子层知识点/多维数组.md",
+    "原子层知识点/动态规划.md",
+    "原子层知识点/0-1背包问题.md",
+    "原子层知识点/图(数据结构与算法).md",
+    "原子层知识点/KMP算法.md",
+    "1D8F12B7.gif",
+    "算法刷题",
+    "编程语言/Rust细节",
+    "编程语言/C++细节",
+    "编程语言",
+    "原子层知识点"
+  ]
+}
