@@ -1,6 +1,4 @@
 
-
-
 # 🎉Johnnel的个人笔记
 
 🍕做笔记所使用的软件：[obsidian](https://obsidian.md/)
@@ -21,8 +19,10 @@
 ## 数据结构与算法
 [[数据结构与算法👩‍💼]]
 
+[[算法题]]
 ## 计算机技术
 [[ROS]]
 ## 其他
 [[Obsidian和markdown用法]]
+
 
