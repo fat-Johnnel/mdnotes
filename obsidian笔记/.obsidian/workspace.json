@@ -92,49 +92,101 @@
             }
           },
           {
+            "id": "b0d20f7729f9bbd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心灵减压团体辅导感悟​.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "心灵减压团体辅导感悟​"
+            }
+          },
+          {
+            "id": "757272e4b8b46d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心理电影沙龙《心灵奇旅》观后札记​.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "心理电影沙龙《心灵奇旅》观后札记​"
+            }
+          },
+          {
+            "id": "358e4329e920433e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
             "id": "46edd6c5efd6e31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "原子层知识点/随机变量的方差.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "随机变量的方差"
+              "title": "index"
             }
           },
           {
-            "id": "b3c370b7c646ffcc",
+            "id": "c4a3866afd9a0e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "原子层知识点/随机变量的数学期望.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "随机变量的数学期望"
+              "title": "index"
             }
           },
           {
-            "id": "8c3556bdbedac2c6",
+            "id": "56e79b93170c6d60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "原子层知识点/连续型随机变量(C.R.V).md",
-                "mode": "preview",
+                "file": "个人技术日志.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "连续型随机变量(C.R.V)"
+              "title": "个人技术日志"
+            }
+          },
+          {
+            "id": "2fc9f29fd76667d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人日志/关于在手机上克隆obsidian笔记以及移动端的git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "关于在手机上克隆obsidian笔记以及移动端的git"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -263,14 +315,23 @@
               "icon": "lucide-list",
               "title": "支配集、覆盖集、独立集、匹配与着色 的大纲"
             }
+          },
+          {
+            "id": "67fc9aa7b0b30251",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,19 +343,29 @@
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
       "random-note:开始漫游笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "169881d5bb166ffd",
+  "active": "94824e39c887d992",
   "lastOpenFiles": [
-    "原子层知识点/随机变量的矩.md",
-    "随机变量的协方差.md",
-    "概率论与数理统计.md",
-    "原子层知识点/随机变量的方差.md",
+    "个人技术日志.md",
+    "个人日志/关于在手机上克隆obsidian笔记以及移动端的git.md",
+    "离散数学.md",
+    "个人日志",
     "原子层知识点/随机变量的数学期望.md",
+    "index.md",
+    "原子层知识点/随机变量的方差.md",
+    "px4飞控的软件协议.md",
+    "Obsidian和markdown用法.md",
+    "心灵减压团体辅导感悟​.md",
+    "心理电影沙龙《心灵奇旅》观后札记​.md",
+    "“与原生家庭和解”读书会随想​.md",
+    "随机变量的协方差.md",
+    "原子层知识点/随机变量的矩.md",
+    "概率论与数理统计.md",
     "数据结构与算法👩‍💼.md",
     "原子层知识点/树的算法部分.md",
-    "离散数学.md",
     "原子层知识点/AVL树.md",
     "原子层知识点/树🎄.md",
     "原子层知识点/多维R.V.的函数分布.md",
@@ -305,15 +376,6 @@
     "原子层知识点/平面图.md",
     "原子层知识点/支配集、覆盖集、独立集、匹配与着色.md",
     "原子层知识点/集合.md",
-    "原子层知识点/条件分布.md",
-    "原子层知识点/树（离散数学）.md",
-    "原子层知识点/最短路径问题.md",
-    "原子层知识点/欧拉图与哈密顿图.md",
-    "原子层知识点/哈密顿图.md",
-    "原子层知识点/图的基本概念.md",
-    "index.md",
-    "原子层知识点/函数.md",
-    "未命名",
     "1D8F12B7.gif",
     "算法刷题",
     "编程语言/Rust细节",
