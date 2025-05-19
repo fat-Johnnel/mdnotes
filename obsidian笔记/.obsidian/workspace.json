@@ -8,185 +8,93 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b068449f0a01026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "原子层知识点/树的算法部分.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "树的算法部分"
-            }
-          },
-          {
-            "id": "8d1a7b973147c4c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概率论与数理统计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "概率论与数理统计"
-            }
-          },
-          {
-            "id": "eb89ce780c10bf87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概率论与数理统计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "概率论与数理统计"
-            }
-          },
-          {
-            "id": "c3e15be17b9c2baa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概率论与数理统计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "概率论与数理统计"
-            }
-          },
-          {
-            "id": "24a4c087d5d8cd8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "原子层知识点/随机变量的矩.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "随机变量的矩"
-            }
-          },
-          {
-            "id": "169881d5bb166ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随机变量的协方差.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "随机变量的协方差"
-            }
-          },
-          {
-            "id": "b0d20f7729f9bbd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心灵减压团体辅导感悟​.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "心灵减压团体辅导感悟​"
-            }
-          },
-          {
-            "id": "757272e4b8b46d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心理电影沙龙《心灵奇旅》观后札记​.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "心理电影沙龙《心灵奇旅》观后札记​"
-            }
-          },
-          {
-            "id": "358e4329e920433e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "46edd6c5efd6e31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "c4a3866afd9a0e33",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "index"
             }
           },
           {
-            "id": "56e79b93170c6d60",
+            "id": "12c41766d3bd92d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人技术日志.md",
+                "file": "概率论与数理统计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "个人技术日志"
+              "title": "概率论与数理统计"
             }
           },
           {
-            "id": "2fc9f29fd76667d2",
+            "id": "e8cfcc3f5fc11895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人日志/关于在手机上克隆obsidian笔记以及移动端的git.md",
+                "file": "原子层知识点/总体与样本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于在手机上克隆obsidian笔记以及移动端的git"
+              "title": "总体与样本"
+            }
+          },
+          {
+            "id": "dd0e80b6c7d19c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原子层知识点/随机变量的方差.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随机变量的方差"
+            }
+          },
+          {
+            "id": "1ab39edab18ecd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原子层知识点/大数定律.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大数定律"
+            }
+          },
+          {
+            "id": "5db640c0f118fe85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原子层知识点/中心极限定理.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中心极限定理"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -347,35 +255,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94824e39c887d992",
+  "active": "12c41766d3bd92d4",
   "lastOpenFiles": [
     "个人技术日志.md",
+    "概率论与数理统计.md",
+    "原子层知识点/总体与样本.md",
+    "原子层知识点/中心极限定理.md",
+    "px4飞控的软件协议.md",
+    "原子层知识点/大数定律.md",
+    "原子层知识点/随机变量的方差.md",
+    "index.md",
+    "原子层知识点/随机变量的数学期望.md",
+    "原子层知识点/连续型随机变量(C.R.V).md",
+    "原子层知识点/离散型随机变量.md",
     "个人日志/关于在手机上克隆obsidian笔记以及移动端的git.md",
     "离散数学.md",
     "个人日志",
-    "原子层知识点/随机变量的数学期望.md",
-    "index.md",
-    "原子层知识点/随机变量的方差.md",
-    "px4飞控的软件协议.md",
     "Obsidian和markdown用法.md",
     "心灵减压团体辅导感悟​.md",
     "心理电影沙龙《心灵奇旅》观后札记​.md",
     "“与原生家庭和解”读书会随想​.md",
-    "随机变量的协方差.md",
+    "原子层知识点/随机变量的协方差.md",
     "原子层知识点/随机变量的矩.md",
-    "概率论与数理统计.md",
     "数据结构与算法👩‍💼.md",
     "原子层知识点/树的算法部分.md",
     "原子层知识点/AVL树.md",
     "原子层知识点/树🎄.md",
     "原子层知识点/多维R.V.的函数分布.md",
-    "原子层知识点/连续型随机变量(C.R.V).md",
-    "原子层知识点/离散型随机变量.md",
     "原子层知识点/随机变量独立.md",
     "原子层知识点/欧拉图.md",
-    "原子层知识点/平面图.md",
-    "原子层知识点/支配集、覆盖集、独立集、匹配与着色.md",
-    "原子层知识点/集合.md",
     "1D8F12B7.gif",
     "算法刷题",
     "编程语言/Rust细节",
